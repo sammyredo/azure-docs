@@ -120,7 +120,7 @@ As a first step, you should evaluate your policy using the [what if tool](what-i
 When new policies are ready for your environment, deploy them in phases:
 
 1. Apply a policy to a small set of users and verify it behaves as expected. 
-1. When you expand a policy to include more users. Continue to exclude all administrators from the policy to ensure that they still have access and can update a policy if a change is required.
+1. Expand the policy to include more users. Continue to exclude all administrators from the policy to ensure that they still have access and can update a policy if a change is required.
 1. Apply a policy to all users only if necessary. 
 
 As a best practice, create a user account that is:
