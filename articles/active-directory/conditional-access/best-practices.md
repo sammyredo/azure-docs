@@ -20,7 +20,7 @@ ms.collection: M365-identity-device-management
 With [Azure Active Directory (Azure AD) Conditional Access](../active-directory-conditional-access-azure-portal.md), you can control how authorized users access your cloud apps. This article provides you with information about:
 
 - Things you should know 
-- What it is you should avoid doing when configuring Conditional Access policies. 
+- What you should avoid doing when configuring Conditional Access policies. 
 
 This article assumes that you are familiar with the concepts and the terminology outlined in [What is Conditional Access in Azure Active Directory?](../active-directory-conditional-access-azure-portal.md)
 
